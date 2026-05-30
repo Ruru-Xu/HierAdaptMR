@@ -116,11 +116,13 @@ tensorboard --logdir /path/to/output
 ## Citation
 
 ```bibtex
-@article{hieradaptmr2025,
-  title   = {HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters},
-  journal = {arXiv preprint arXiv:2508.13026},
-  year    = {2025},
-  url     = {https://arxiv.org/abs/2508.13026}
+@article{xu2025hieradaptmr,
+  title={HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters},
+  author={Xu, Ruru and Oksuz, Ilkay},
+  booktitle={International Workshop on Statistical Atlases and Computational Models of the Heart},
+  pages={299--310},
+  year={2025},
+  organization={Springer}
 }
 ```
 
